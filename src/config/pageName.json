@@ -1,0 +1,14 @@
+{
+  "home": "首页",
+  "prepare": "DEMO项目准备",
+  "introduce": "Vue-router简单介绍",
+  "mobile": "移动示例",
+  "practice": "Vue-router开发实践",
+  "basic": "Vue-router常用配置",
+  "global": "Vue-router全局守卫",
+  "component": "Vue-router组件守卫",
+  "jump": "Vue-router跳转方式",
+  "parameter": "Vue-router参数传递",
+  "need": "模块加载按需加载",
+  "attribute": "Vue-router全局属性"
+}
